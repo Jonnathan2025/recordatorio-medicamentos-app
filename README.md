@@ -92,13 +92,13 @@ lib/
 
 ## ⚖️ Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. 
 
 ---
 
 ## 👨‍💻 Autor
 
-**Jonnathan Fabrizio Castillo Chalan**  
+**Jonnathan Fabricio Castillo Chalan**  
 Desarrollador Principal – Proyecto final para Universidad Internacional SEK
 
 ---
