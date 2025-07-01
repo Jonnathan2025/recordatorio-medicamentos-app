@@ -86,7 +86,7 @@ lib/
 
 ## 🛠️ Soporte y Contribuciones
 
-- Para reportar errores o sugerencias: 
+- Para reportar errores o sugerencias: jonnathancastillochalan@gmail.com
 
 ---
 
