@@ -3,7 +3,7 @@ Aplicación móvil desarrollada en Flutter para ayudar a adultos mayores a recor
 
 📌 Enlaces del Proyecto
 
-Repositorio GitHub: https://github.com/tu-usuario/medication-reminder-app
+Repositorio GitHub:https://github.com/Jonnathan2025/recordatorio-medicamentos-app.git
 
 
 ⚙️ Requisitos del Sistema
