@@ -80,13 +80,13 @@ lib/
 
 ## 📈 Metodología Ágil
 
-📌 Actualmente el proyecto no utiliza una herramienta de gestión como Jira. *(Puedes reemplazar esto por el enlace a Jira si corresponde)*.
+📌 Actualmente el proyecto no utiliza una herramienta de gestión como Jira. .
 
 ---
 
 ## 🛠️ Soporte y Contribuciones
 
-- Para reportar errores o sugerencias: [Abrir un issue](https://github.com/jonanhcastillo/recordatorio-medicamentos-app/issues)
+- Para reportar errores o sugerencias: 
 
 ---
 
