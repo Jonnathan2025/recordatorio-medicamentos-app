@@ -7,7 +7,7 @@ Aplicación móvil desarrollada en **Flutter** para ayudar a adultos mayores a r
 
 ## 🔗 Repositorio del Proyecto
 
-📁 GitHub: [Recordatorio Medicamentos App](https://github.com/jonanhcastillo/recordatorio-medicamentos-app)
+📁 GitHub: [Recordatorio Medicamentos App](https://github.com/Jonnathan2025/recordatorio-medicamentos-app.git)
 
 ---
 
