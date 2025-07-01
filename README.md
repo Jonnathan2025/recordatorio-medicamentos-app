@@ -1,69 +1,104 @@
-💊 Medication Reminder App
-Aplicación móvil desarrollada en Flutter para ayudar a adultos mayores a recordar sus medicamentos mediante notificaciones programadas, una interfaz accesible y funcionalidades básicas de seguimiento.
 
-📌 Enlaces del Proyecto
+# 💊 Medication Reminder App
 
-Repositorio GitHub:https://github.com/Jonnathan2025/recordatorio-medicamentos-app.git
+Aplicación móvil desarrollada en **Flutter** para ayudar a adultos mayores a recordar sus medicamentos mediante recordatorios automáticos. Brinda una interfaz **accesible**, **intuitiva** y **segura** para mejorar la adherencia al tratamiento.
 
+---
 
-⚙️ Requisitos del Sistema
-HerramientaVersión mínimaFlutter3.16.0Dart3.2.0AndroidAPI 21 (5.0)iOSiOS 12.0
+## 🔗 Repositorio del Proyecto
 
-🧰 Dependencias Principales
-yamldependencies:
-flutter:
-sdk: flutter
-cupertino_icons: ^1.0.2
-flutter_local_notifications: ^16.3.0
-sqflite: ^2.3.0
-shared_preferences: ^2.2.2
-intl: ^0.18.1
-timezone: ^0.9.2
-flutter_launcher_icons: ^0.13.1
-path: ^1.8.3
-permission_handler: ^11.2.0
+📁 GitHub: [Recordatorio Medicamentos App](https://github.com/jonanhcastillo/recordatorio-medicamentos-app)
 
-🚀 Instrucciones para Levantar el Proyecto
-1. Clonar el repositorio
-   bashgit clone 
-   cd medication-reminder-app
-2. Instalar las dependencias
-   bashflutter pub get
-3. Configurar los íconos
-   bashflutter pub run flutter_launcher_icons:main
-4. Ejecutar la aplicación
-   bashflutter run
+---
 
-📁 Estructura del Proyecto
-bashlib/
-├── main.dart                      # Punto de entrada
-├── models/                        # Modelos de datos (medicamento, historial)
-├── screens/                       # Pantallas principales
-├── services/                      # Lógica de negocio y notificaciones
-├── widgets/                       # Widgets reutilizables
-├── utils/                         # Tema, accesibilidad, constantes
+## 🛠️ Tecnologías y Herramientas
 
-🎯 Funcionalidades
+- Flutter: 3.16.0
+- Dart: 3.2.0
+- Android: API 21+
+- 🚀 Frameworks & Paquetes:
+  - `flutter_local_notifications`
+  - `flutter_launcher_icons`
+  - `flutter_native_timezone`
+  - `timezone`
+  - `flutter_localizations`
+  - `intl`
 
-📋 Agregar Medicamento: Nombre, dosis, horario
-🔔 Notificación: Recordatorio automático hasta confirmar toma
-📅 Historial: Registro de tomas y medicamentos olvidados
-🧓 Accesibilidad: Texto grande, botones visibles, flujo simple
+---
 
+## 🧪 Instrucciones para Levantar el Proyecto
 
-🧪 Testing
-bashflutter test
-Pruebas básicas con flutter_test.
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/jonanhcastillo/recordatorio-medicamentos-app.git
+   ```
+2. Ir a la carpeta del proyecto:
+   ```bash
+   cd recordatorio-medicamentos-app
+   ```
+3. Instalar dependencias:
+   ```bash
+   flutter pub get
+   ```
+4. Ejecutar la aplicación:
+   - En dispositivo/emulador:
+     ```bash
+     flutter run
+     ```
+   - Para compilar APK:
+     ```bash
+     flutter build apk --release
+     ```
 
-📞 Soporte
+✅ Asegúrate de tener configurado tu entorno Flutter. Más información aquí: [Instalación Flutter](https://docs.flutter.dev/get-started/install)
 
-Email: jonnathancastillochalan@gmail.com
-Issues: GitHub Issues
+---
 
+## 🧩 Estructura del Proyecto
 
-📄 Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
+```
+lib/
+│
+├── main.dart              # Punto de entrada
+├── models/                # Modelos (Medicamento, Usuario)
+├── pages/                 # Pantallas principales
+├── services/              # Lógica de negocio y notificaciones
+└── widgets/               # Componentes reutilizables
+```
 
-👥 Autor
-Jonnathan Fabricio Castillo Chalan – Desarrollador Principal
-Proyecto de tesis para Universidad Internacional SEK
+---
+
+## 🧠 Funcionalidades
+
+- 📋 **Gestión de medicamentos**: Nombre, dosis, hora.
+- ⏰ **Notificaciones**: Recordatorios automáticos para cada toma.
+- 🧠 **Historial**: Registro de tomas y medicamentos olvidados.
+- 🔍 **Accesibilidad**: Texto grande, botones visibles, modo simple.
+- 🧪 **Testing**: Pruebas básicas con `flutter_test`.
+
+---
+
+## 📈 Metodología Ágil
+
+📌 Actualmente el proyecto no utiliza una herramienta de gestión como Jira. *(Puedes reemplazar esto por el enlace a Jira si corresponde)*.
+
+---
+
+## 🛠️ Soporte y Contribuciones
+
+- Para reportar errores o sugerencias: [Abrir un issue](https://github.com/jonanhcastillo/recordatorio-medicamentos-app/issues)
+
+---
+
+## ⚖️ Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+## 👨‍💻 Autor
+
+**Jonnathan Fabrizio Castillo Chalan**  
+Desarrollador Principal – Proyecto final para Universidad Internacional SEK
+
+---
